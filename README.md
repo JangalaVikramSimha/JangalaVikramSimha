@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JangalaVikramSimha
 - 👀 I’m interested in java 
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java  developers
+- 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me jvikramsimha@gmail.com
 
 <!---
