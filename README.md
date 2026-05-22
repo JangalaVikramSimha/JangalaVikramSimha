@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JangalaVikramSimha
-- 👀 I’m interested in java 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m interested in java, SpringBoot, Mulesoft, FastAPI, Python, Machine Learning
+- 🌱 I’m currently learning FastApi
+- 💞️ I’m looking to collaborate on Python FastAPI projects
 - 📫 How to reach me jvikramsimha@gmail.com
 
 <!---
